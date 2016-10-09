@@ -1,0 +1,14 @@
+Desconto: 10% se <= semana pra vencer
+Importado: 20% a mais
+
+1 | Pote de Mana | 10
+2 | O doce 	 	 | 5  | 08/10/2016
+3 | xisburgui	 | 11 | importado
+4 | suco de manga| 10 | importado | 06/10/2016
+
+--------------------------
+Qual o preço final?????? 
+10
+4,5
+13,20
+10,80
